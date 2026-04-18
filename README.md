@@ -64,3 +64,6 @@ Video processing may be slower on low-end systems
 
 
 Output:
+<img width="1982" height="1056" alt="image" src="https://github.com/user-attachments/assets/2c71207b-d22f-44e8-a50e-973fb78a93b6" />
+<img width="2100" height="1055" alt="image" src="https://github.com/user-attachments/assets/464c2122-1d99-4e5f-93fb-323777995c50" />
+
