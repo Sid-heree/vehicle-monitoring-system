@@ -1,8 +1,12 @@
- Vehicle Monitoring System
+<h1 align="center">🚗 Vehicle Monitoring System</h1>
+<p align="center">AI Detection • Number Plate • Seatbelt • Real-Time Video</p>
 
 An AI-powered computer vision system that detects vehicles, recognizes number plates, and analyzes seatbelt usage from images and videos.
 
-Features
+
+
+<h2>Features</h2>
+
 🚘 Vehicle Detection (Car, Truck, Bus, Motorcycle)
 🔢 Number Plate Detection
 🔤 OCR (Extract text from number plates)
@@ -11,8 +15,8 @@ Features
 📷 Image Upload Support
 🎨 Clean Streamlit UI
 
+<h2>🧠 Tech Stack</h2>
 
-🧠 Tech Stack
 Python
 OpenCV
 Ultralytics YOLOv8
@@ -28,11 +32,12 @@ Project Structure:
 
 ⚙️ Installation
 git clone https://github.com/your-username/vehicle-monitoring-system.git
+
 cd vehicle-monitoring-system
 
 pip install -r requirements.txt
 
-▶️ Run the Application
+<h3>▶️ Run the Application</h3>
 streamlit run app/app.py
 
 *How It Works
