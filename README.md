@@ -20,25 +20,9 @@ EasyOCR
 Streamlit
 
 
-vehicle-monitoring-system/
-│
-├── app/
-│ └── app.py
-│
-├── services/
-│ ├── pipeline.py
-│ ├── vehicle_detector.py
-│ ├── plate_detector.py
-│ ├── seatbelt_detector.py
-│ └── ocr_reader.py
-│
-├── models/
-│ ├── plate.pt
-│ └── seatbelt.pt
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+Project Structure:
+<img width="497" height="802" alt="image" src="https://github.com/user-attachments/assets/1ca03746-86d6-4a41-a7f6-be661ff2a23d" />
+
 
 
 
