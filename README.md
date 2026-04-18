@@ -60,3 +60,7 @@ Input → Vehicle Detection → Plate Detection → OCR → Seatbelt Detection �
 OCR works best on clear number plates
 Seatbelt detection requires visible driver
 Video processing may be slower on low-end systems
+
+
+
+Output:
