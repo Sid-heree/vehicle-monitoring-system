@@ -17,11 +17,14 @@ An AI-powered computer vision system that detects vehicles, recognizes number pl
 
 <h2>🧠 Tech Stack</h2>
 
-Python
-OpenCV
-Ultralytics YOLOv8
-EasyOCR
-Streamlit
+streamlit
+ultralytics
+easyocr
+opencv-python-headless
+numpy
+torch
+torchvision
+Pillow
 
 
 Project Structure:
